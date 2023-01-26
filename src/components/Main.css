@@ -1,0 +1,29 @@
+/* WELCOME.JS CSS */
+
+.wel1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.wel1 img {
+    margin-top: 10px;
+    height: 60px;
+    width: 320px;
+    margin-bottom: 20px;
+}
+
+.linkcls {
+    height: 100%;
+    width: 40%;
+    background-color: white;
+}
+
+/* .wellhead {
+    text-align: center;
+} */
+
+.wellhead h1 {
+    color: blue;
+}
+
